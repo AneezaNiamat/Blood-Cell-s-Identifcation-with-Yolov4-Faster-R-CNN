@@ -39,6 +39,7 @@ Note: order of Classes matters During Testing so write them in same order classe
 Step-5:
 	Create a text file train.txt and write all the paths to each training image in it.
 	Create another text file test.txt and write all the paths to each testing images in it.
+
 Step-6:
 	Create a file obj.data in the directory darknet/data and write the following:
 <img width="473" alt="yv42" src="https://user-images.githubusercontent.com/64285157/110252308-a3a07f00-7f39-11eb-9aa8-a39fcfd1f026.PNG">
